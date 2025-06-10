@@ -13,5 +13,3 @@ Ce projet comprend :
 - Un formulaire de contact fonctionnel via **PHP**
 
 ---
-
-## 🗂️ Structure du projet
